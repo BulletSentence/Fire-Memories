@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "34357437486",
+    "firebase_url": "https://notes-b8d0f.firebaseio.com",
+    "project_id": "notes-b8d0f",
+    "storage_bucket": "notes-b8d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34357437486:android:9d71b4c6d8fe1245d16bbf",
+        "android_client_info": {
+          "package_name": "br.com.bs.notesandflame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34357437486-dnerp0do2c2q62n629ooanfr6g1aegjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9U9FSqyayEOLpoXsgWRT5hW-KALc1Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34357437486-dnerp0do2c2q62n629ooanfr6g1aegjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34357437486:android:33731edbfab82617d16bbf",
+        "android_client_info": {
+          "package_name": "br.com.bs.notesandflames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34357437486-dnerp0do2c2q62n629ooanfr6g1aegjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9U9FSqyayEOLpoXsgWRT5hW-KALc1Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34357437486-dnerp0do2c2q62n629ooanfr6g1aegjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
